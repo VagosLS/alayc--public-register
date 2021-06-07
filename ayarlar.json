@@ -1,0 +1,61 @@
+{
+
+  "prefix" : ".",
+
+  "token" : "TOKEN",
+  
+  "sahip" : "SENINID",
+  
+  "botVoiceChannelID" : "BOTUNGIRECEGISESKANALI",
+  
+  "Guild" : "SUNUCUID",
+   
+  
+  "tag" : "TAG",
+  "nick" : "isim | Yaş" ,
+  
+  
+  "booster" : "BOOSTERID",
+   
+  "erkek1": "ERKEKROL1ID",
+  "erkek2" : "ERKEKROL2ID",
+  "kadın1" : "KIZROL1ID",
+  "kadın2" : "KIZROL2ID",
+  "unregister" : "KAYITSIZROLID",
+  "jailRol" : "JAILROLID",
+  "şüpheli" : "ŞUPHELIROLID",
+  "tagRol" : "TAGLIROLUID",
+  
+  "KayıtYetkilisi" : "KAYITÇIROLID",
+  "üstYetkiliRolü" : "YÖNETIMROLID",
+
+  
+  
+  "genelChat" : "CHATID",  
+  "kayitLog" : "KAYITOLUNCAMESAJATICAGIKANALBURAYACHATIDYAZMA",
+  "KayıtChat" : "KAYITKANALI",
+  "tagLog" : "BIRITAGALINCAMESAJATICAGIKANAL",
+ 
+
+  "sayı1" : "sayı1id",
+
+  "sayı2" : "sayı2id",
+
+  "sayı3" : "sayı3id",
+
+  "sayı4" : "sayı4id",
+
+  "sayı5" : "sayı5id",
+
+  "sayı6" : "sayı6id",
+
+  "sayı7" : "sayı7id",
+
+  "sayı8" : "sayı8id",
+
+  "sayı9" : "sayı9id",
+
+  "sayı0" : "sayı0ID" 
+
+
+}
